@@ -1,0 +1,37 @@
+{
+  "name": "Samandar's Application",
+  "short_name": "Samandar's App",
+  "description": "This is test app",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background-color": "#000000",
+  "theme_color":"#000000",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src":"./icons/android-launchericon-72-72.png",
+      "type":"image/png",
+      "sizes":"72x72"
+    },
+    {
+      "src":"./icons/android-launchericon-96-96.png",
+      "type":"image/png",
+      "sizes":"96x96"
+    },
+    {
+      "src":"./icons/android-launchericon-144-144.png",
+      "type":"image/png",
+      "sizes":"144x144"
+    },
+    {
+      "src":"./icons/android-launchericon-192-192.png",
+      "type":"image/png",
+      "sizes":"192x7192"
+    },
+    {
+      "src":"./icons/android-launchericon-512-512.png",
+      "type":"image/png",
+      "sizes":"512x512"
+    }
+  ]
+}
